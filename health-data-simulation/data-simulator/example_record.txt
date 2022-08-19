@@ -1,0 +1,20 @@
+{
+    "Record_ID": "78ed6b8f-a3b4-4a93-a044-0f545a732f57", 
+    "Patient_ID": "9916ca41-2c28-43fc-b632-9ebf9877a1b8", 
+    "First_Name": "Ashley", 
+    "Last_Name": "Hunt", 
+    "DOB": "2018-10-29", 
+    "Address": "76182 Jerry Locks Apt. 536\\nNew David, SC 73368", 
+    "Check_In_Date": "2022-03-03", 
+    "Record_Timestamp": "2022-03-03 16:03:32.585628", 
+    "Systolic_BP": 120, 
+    "Diastolic_BP": 80, 
+    "Heart_Rate": 85, 
+    "Body_Temperature": 97.0, 
+    "Blood_Oxygen": 80, 
+    "Blood_Sugar": 125, 
+    "BP_evaluation": "Hypertension Stage I", 
+    "Heart_Rate_Eval": "normal", 
+    "Blood_Sugar_Eval": "normal blood sugar", 
+    "Blood_Oxygen_Eval": "low blood oxygen"
+}
