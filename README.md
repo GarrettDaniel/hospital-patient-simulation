@@ -8,6 +8,13 @@ The code in this repo represent a Python app for custom data simulation, and a L
 The AWS architecture is as follows:
 ![health-data-simulator-arch](https://user-images.githubusercontent.com/36463300/185521737-8c092b97-69ec-462a-aadf-5f34687bad03.png)
 
+Here are some example visualizations made with QuickSight:
+Monitoring all patients in aggregate
+![dashboard-blood-pressure-oxygen](https://user-images.githubusercontent.com/36463300/186735753-d330d7a2-2826-4892-bf65-b5329cbb70e4.png)
+
+Monitoring individual patients over time
+![individual-patient-monitoring](https://user-images.githubusercontent.com/36463300/186735767-a311becf-9c0d-4962-a88e-b5cf34cc0985.png)
+
 Other aspects of the architecture were created manually in the AWS Management Console for demo/experimentation purposes, and are not included in this repo.
 - EC2 Instance for running the data generation app
 - S3 buckets for storing raw and enriched patient data
